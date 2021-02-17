@@ -6,4 +6,3 @@ Essa exploit localiza um número, retorna operadora é estado.
 Por favor use o +55 é o ddd resto do numero.
 
 *Exp:* ``+5577777777777``
-#Fim
